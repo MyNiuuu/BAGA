@@ -1,10 +1,10 @@
-  <h2>  Bundle Adjusted Gaussian Avatars Deblurring </h2>
+  <h1>  Bundle Adjusted Gaussian Avatars Deblurring </h1>
 <div>
     <a href='https://myniuuu.github.io/' target='_blank'>Muyao Niu</a> <sup>1,2</sup> &nbsp;
     <a href='https://yifever20002.github.io/' target='_blank'>Yifan Zhan</a><sup>1,2</sup> &nbsp;
     <a href='https://qtzhu.me/' target='_blank'>Qingtian Zhu</a><sup>2</sup> &nbsp;
-    <a href='' target='_blank'>Zhuoxiao Li</a><sup>2</sup> &nbsp;
-    <a href='' target='_blank'>Wei Wang</a><sup>1</sup> &nbsp;<br>
+    Zhuoxiao Li<sup>2</sup> &nbsp;
+    Wei Wang<sup>1</sup> &nbsp;<br>
     <a href='https://zzh-tech.github.io/' target='_blank'>Zhihang Zhong</a><sup>1,†</sup> &nbsp;
     <a href='https://jimmysuen.github.io/' target='_blank'>Xiao Sun</a><sup>1,†</sup> &nbsp;
     <a href='https://scholar.google.com/citations?user=JD-5DKcAAAAJ&hl=en' target='_blank'>Yinqiang Zheng</a><sup>2</sup> &nbsp;
