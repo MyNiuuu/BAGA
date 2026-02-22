@@ -1,4 +1,4 @@
-  <h1> 🏃🫨 Motion-Aware Animatable Gaussian Avatars Deblurring </h1>
+  <h1> 🏃🫨 MAD-Avatar: Motion-Aware Animatable Gaussian Avatars Deblurring </h1>
 <div>
     <a href='https://myniuuu.github.io/' target='_blank'>Muyao Niu</a> <sup>1,2</sup> &nbsp;
     <a href='https://yifever20002.github.io/' target='_blank'>Yifan Zhan</a><sup>1,2</sup> &nbsp;
