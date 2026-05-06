@@ -58,7 +58,7 @@ We contribute synthetic and real datasets for evaluating blur-aware 3DGS human a
 For the synthetic dataset, due to the [aggreement](https://pengsida.net/project_page_assets/files/ZJU-MoCap_Agreement.pdf) of ZJU-MoCap, we cannot re-distribute the sharp data of ZJU-MoCap. So you have to download the original dataset, and follow the following steps to construct the final synthetic dataset using our scripts:
 
 1. Download the blurry frames and the calibrations from [here](https://drive.google.com/file/d/1ZLVpE-9zIobaY41-6bEsVXUEyILCycxw/view?usp=sharing) and unzip it to `./data/BlurZJU`.
-2. Follow the procedure [here](https://github.com/zju3dv/neuralbody/blob/master/INSTALL.md) to download ZJU-MoCap (refined version). Unzip and put the six scenes (`my_377`, `my_386`, `my_387`, `my_392`, `my_393`, `my_394`) to `./data/ZJU-MoCap-Refine` (If you get scenes starting with `CoreView` instead of `my`, then you have downloaded the original ZJU-MoCap, not the Refined version).
+2. Follow the procedure [here](https://github.com/zju3dv/instant-nvr/blob/master/docs/install.md) to download ZJU-MoCap (refined version). Unzip and put the six scenes (`my_377`, `my_386`, `my_387`, `my_392`, `my_393`, `my_394`) to `./data/ZJU-MoCap-Refine` (If you get scenes starting with `CoreView` instead of `my`, then you have downloaded the original ZJU-MoCap, not the Refined version).
 3. Run `python rearrange_zju.py` to re-arrange the dataset.
 
 #### Real Dataset (BS-Human)
